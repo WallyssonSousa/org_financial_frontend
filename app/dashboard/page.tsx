@@ -89,7 +89,7 @@ export default function DashboardPage() {
             </div>
             <div>
               <h1 className="text-xl font-bold" style={{ color: "var(--color-text)" }}>
-                BankApp
+                Org Financial
               </h1>
               <p className="text-sm" style={{ color: "var(--color-text-secondary)" }}>
                 Olá, {user.nome}

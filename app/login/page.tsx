@@ -53,7 +53,7 @@ export default function LoginPage() {
       <div className="w-full max-w-md animate-slide-in">
         <div className="text-center mb-8">
           <p className="text-lg" style={{ color: "var(--color-text-secondary)" }}>
-            Seu banco digital
+            Seu organizador financeiro
           </p>
         </div>
 
